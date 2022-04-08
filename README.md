@@ -9,5 +9,5 @@ Task Planner created with partner Ivana Jones
 Simple Calculator - Generation Australia exercise.
 
 3. https://kriss506.github.io/alpha/ \
-Childrens aplphabet - Generation Australia exercise.
+Childrens alphabet - Generation Australia exercise.
 
