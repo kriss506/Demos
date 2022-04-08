@@ -15,3 +15,10 @@ Childrens alphabet - Generation Australia exercise.
 
 5.https://kriss506.github.io/webassessment/  \
 
+6. https://kriss506.github.io/objectexercise03/ \
+
+7. https://kriss506.github.io/objectexercise/ \
+
+8. https://kriss506.github.io/sydneyblog/  \
+
+9. https://kriss506.github.io/iphone/ \
